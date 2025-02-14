@@ -6,13 +6,13 @@ export default function Main() {
       <div className="w-full h-[600px] bg-black bg-cover bg-center bg-[url('/shoppingbg.jpg')] opacity-85">
         {/* Heading */}
         <h1 className="flex justify-center items-center text-3xl sm:text-4xl md:text-5xl font-serif font-bold pt-20 sm:pt-28 md:pt-36 text-pink-500 text-center px-4">
-          WelCome tO Alvi Shop
+          Welcome to BISMA's Shop
         </h1>
 
         {/* Paragraph */}
         <div className="flex justify-center items-center px-4">
           <p className="text-sm sm:text-base md:text-lg lg:text-xl text-white text-center w-full max-w-[550px]">
-            I am thrilled to announce the opening of my online store, Alvi Store! This platform is designed to offer customers a seamless shopping experience, featuring a diverse range of high-quality products that cater to all your needs. At Alvi Store, we prioritize customer satisfaction by ensuring competitive prices, fast delivery, and exceptional service.
+            I am thrilled to announce the opening of my online store, Bisma Store! This platform is designed to offer customers a seamless shopping experience, featuring a diverse range of high-quality products that cater to all your needs. At Bisma Store, we prioritize customer satisfaction by ensuring competitive prices, fast delivery, and exceptional service.
           </p>
         </div>
 
