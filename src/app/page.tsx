@@ -12,7 +12,7 @@ export default function Main() {
         {/* Paragraph */}
         <div className="flex justify-center items-center px-4">
           <p className="text-sm sm:text-base md:text-lg lg:text-xl text-white text-center w-full max-w-[550px]">
-            I am thrilled to announce the opening of my online store Bisma Store This platform is designed to offer customers a seamless shopping experience, featuring a diverse range of high quality products that cater to all your needs. At Bisma Store, we prioritize customer satisfaction by ensuring competitive prices fast delivery and exceptional service.
+            I am thrilled to announce the opening of my online store Bisma Store This platform is designed to offer customers a seamless shopping experience featuring a diverse range of high quality products that cater to all your needs. At Bisma Store we prioritize customer satisfaction by ensuring competitive prices fast delivery and exceptional service.
           </p>
         </div>
 
